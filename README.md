@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Myself Sangam Kumar , a pre final year undergraduate at NIT Durgapur majoring in Computer science and engineering.
+Myself Sangam Kumar , a cse undergraduate from NIT Durgapur currently working as a software developer.
 <!--
 **Sangam-kumar432/Sangam-kumar432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
